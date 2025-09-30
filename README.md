@@ -52,7 +52,6 @@
 - Noice: 噪音生成器。
 - 红果免费短剧 (Hongguo): 短剧视频。
 - 音乐世界2 (Music World 2): 音乐游戏/应用（类似 Cytus II）。
-- JHentai: 成人内容查看器。
 - Hiwara: Iwara 视频客户端（动漫/MMD）。
 - Animeko: 集成动漫在线观看应用。
 - Yuro: asmr.one 客户端（ASMR）。
@@ -152,7 +151,7 @@
 ### 动漫/漫画
 - Aniyomi: 动漫/漫画阅读器。
 - Mihon: 漫画阅读器。
-- JHentai: 成人内容查看器。
+- JHentai: 漫画查看器。
 - Animeko: 动漫应用。
 - Mikuture: Miku AR 应用。
 - Hiwara: Iwara 查看器。
