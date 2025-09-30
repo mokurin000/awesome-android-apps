@@ -51,7 +51,7 @@
 - Milthm: 音乐播放器（节奏类）。
 - Noice: 噪音生成器。
 - 红果免费短剧 (Hongguo): 短剧视频。
-- 音乐世界2 (Music World 2): 音乐游戏/应用（类似 Cytus II）。
+- 音乐世界2 (Cytus II): 音游
 - Hiwara: Iwara 视频客户端（动漫/MMD）。
 - Animeko: 集成动漫在线观看应用。
 - Yuro: asmr.one 客户端（ASMR）。
